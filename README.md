@@ -6,8 +6,8 @@
 <b>Simple Batch Script to aid Non-technical production staff to remotely restart a server when IT is not available to remotely restart a server to keep production flowing when a server/service needs to be reset.</b>
 <h2>Languages & Tools needed</h2>
 ☝️ <b>Windows System</b><br>
-☝️ <b>PSToolsSuite</b>
-☝️ <b>Create a Desktop Shortcut for the User to run</b>
+☝️ <b>PSToolsSuite</b><br>
+☝️ <b>Create a Desktop Shortcut for the User to run</b><br>
 ☝️ <b>Administrative Account for Station the script is hosted on/and server</b>
 
 <h2>👨‍🔬 Program Walk-Through</h2>
