@@ -1,6 +1,6 @@
 <h1>🧑‍💻 One-Click Remote Server Restart Script Using PowerShell</h1>
 
-
+<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/dd1b36b8-6eb1-475b-b7a1-b965b5e25b9d" /><br>
 
 <h2>🏌️Description</h2>
 <b>Simple Powershell Script to aid Non-technical production staff to remotely restart a server when IT is not available to remotely restart a server to keep production flowing when a server/service needs to be reset.</b>
